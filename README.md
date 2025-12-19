@@ -18,5 +18,5 @@ A modern, full-stack Real Estate management system built with **Flask**, **SQLAl
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/ARPIT-29/real-estate-flask.git
+   cd real-estate-flask
