@@ -1,0 +1,13 @@
+# Flask/Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database
+instance/
+realestate.db
+
+# Uploads (Keep the folder, but ignore the test images)
+static/uploads/*
+!static/uploads/.gitkeep
